@@ -1,14 +1,15 @@
 from fastapi import FastAPI
-from routes import investigation_router
+from routes_investigation import investigation_router
+from routes_web import web_router
+from middleware import setup_middleware
 
-app = FastAPI(
-    title="LegalMind Investigador API",
-    description="API para busca inteligente, análise de estratégias e captação de modelos de negócios jurídicos e administrativos lucrativos.",
-    version="1.0.0"
-)
+app = FastAPI(title="LegalMind V2 - Backend")
 
-app.include_router(investigation_router, prefix="/investigation")
+setup_middleware(app)
+
+app.include_router(investigation_router, prefix="/investigation", tags=["Investigation"])
+app.include_router(web_router, prefix="/web", tags=["Web Search"])
 
 @app.get("/")
 def root():
-    return {"message": "LegalMind Investigador API ativa."}
+    return {"message": "LegalMind V2 API is running"}
