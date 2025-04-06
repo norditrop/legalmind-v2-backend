@@ -1,0 +1,99 @@
+{
+  "segmento_6": {
+    "descricao": "Serviços administrativos e parajurídicos operados por estagiários ou bacharéis sem OAB, com foco em lucratividade e segurança jurídica",
+    "caracteristicas_gerais": {
+      "publico_alvo": "Pessoas físicas e microempresas com baixa familiaridade jurídica ou burocrática",
+      "abordagem": "Soluções administrativas e negociais, com ênfase em prevenção, intermediação e regularização extrajudicial",
+      "limite_legal": "Atividades devem evitar parecer jurídico, atuação judicial ou uso indevido da advocacia. A atuação se concentra em representação, assessoramento, coleta de documentos, redação técnica e intermediação direta com empresas e órgãos administrativos"
+    },
+    "servicos_viaveis": {
+      "consultoria_documental": {
+        "descricao": "Montagem e organização de documentos para entrada em órgãos públicos, bancos ou empresas",
+        "exemplos": ["Regularização de CPF", "Solicitação de isenção de IPTU", "Atualização cadastral bancária ou empresarial"],
+        "rentabilidade_estimativa": "Baixo custo operacional, alta demanda local"
+      },
+      "revisao_financeira": {
+        "descricao": "Revisão de contratos bancários, boletos, dívidas e empréstimos com foco em negociação administrativa direta",
+        "modelo_de_acao": "Coleta de documentos do cliente + redação administrativa de proposta para envio ao banco + acompanhamento de resposta",
+        "legalidade": "Não há prática jurídica quando não se oferece tese ou litígio, apenas negociação direta",
+        "ganho": "Ticket médio de R$200 a R$600 por revisão (com possibilidade de mensalidade para manutenção)"
+      },
+      "abertura_de_mei": {
+        "descricao": "Serviço de abertura, acompanhamento e regularização de Microempreendedor Individual",
+        "parajuridico": true,
+        "rendimento": "R$70 a R$300 por abertura, mais possibilidades de consultoria mensal"
+      },
+      "defesa_em_multas_administrativas": {
+        "descricao": "Redação e protocolo de recursos contra multas de trânsito, ambientais, fiscais ou sanitárias",
+        "modelo": "Atuação extrajudicial com base em documentação fornecida e legislação acessível",
+        "atencao": "Não pode parecer petição jurídica; usa-se linguagem administrativa e técnica",
+        "rentabilidade": "Alto volume, ticket médio R$150 a R$400"
+      },
+      "recuperacao_tributaria_basica": {
+        "descricao": "Identificação e solicitação administrativa de tributos pagos indevidamente ou em duplicidade",
+        "exemplos": ["Restituição de taxa de lixo indevida", "Diferenças de INSS em GPS", "IPVA em veículo vendido"],
+        "requisitos": "Consulta à Receita e órgãos locais + preenchimento de formulários",
+        "potencial": "Clientes com pouco acesso ou conhecimento digital são maioria"
+      },
+      "servicos_parajuridicos_empresariais": {
+        "descricao": "Criação de contratos personalizados simples, políticas de compliance e suporte a regularizações",
+        "atenção": "Evitar expressões técnicas de direito; apresentar como serviços administrativos de apoio à gestão",
+        "público": "Pequenos empresários, igrejas, associações e comerciantes informais"
+      }
+    },
+    "plataformas_de_divulgacao": {
+      "meta_ads": "Campanhas com CTA direto para WhatsApp; segmentação local por comportamento e interesses",
+      "google_meu_negocio": "Ficha com avaliações, horário e links diretos. Ideal para mostrar autoridade local",
+      "grupos_locais": "WhatsApp e Facebook com foco em bairros, cidades pequenas e microempreendedores",
+      "parcerias": "Contadores, despachantes, síndicos e mecânicos como fontes de lead e rede de indicação"
+    },
+    "estrategias_comerciais": {
+      "modelo_consultor_local": {
+        "descricao": "Posicionamento como solucionador de problemas administrativos no bairro ou cidade",
+        "abordagem": "Agilidade, confiança, sigilo e preço acessível. Estilo boca a boca digital"
+      },
+      "funil_conversao": {
+        "anuncio_para_fidelizacao": "Anúncio -> WhatsApp -> Coleta de documentos -> Entrega do serviço -> Fidelização com planos mensais"
+      },
+      "pacotes": {
+        "mensalidades": "Oferecer planos de suporte mensal para empresas (ex.: R$250 por mês para resolver todas as burocracias administrativas)",
+        "servicos_avulsos": "Cobrança por serviço fechado ou combo de serviços"
+      }
+    },
+    "exemplos_ja_operando": [
+      {
+        "nome": "Juridoc",
+        "tipo": "Consultoria documental e parajurídica",
+        "modelo": "Atuação por WhatsApp + entregas digitais em PDF"
+      },
+      {
+        "nome": "Facilita MEI",
+        "tipo": "Abertura e manutenção de MEIs",
+        "modelo": "Consultoria recorrente com foco em microempreendedores locais"
+      },
+      {
+        "nome": "Trânsito Fácil",
+        "tipo": "Recursos administrativos contra multas",
+        "modelo": "Site + atendimento WhatsApp + kit pronto para o cliente imprimir e entregar"
+      }
+    ],
+    "cuidados_legais": {
+      "oab": "Evitar parecer jurídico, usar expressões como 'suporte administrativo', 'orientação documental', 'negociação direta com instituições'",
+      "transparencia": "Deixar claro que não é advogado e que atua na esfera extrajudicial, administrativa ou consultiva básica",
+      "documentacao": "Contrato simples de prestação de serviços e termo de ciência sobre os limites do escopo"
+    },
+    "legalmind_consultivo": {
+      "modo_operacao": "interpretativo",
+      "consulta_usuario": true,
+      "instrucao_base": "Sempre que houver mais de uma possibilidade estratégica, apresente ao usuário as opções mais vantajosas com clareza e justificativa. Priorize retorno rápido e alto lucro com baixo investimento, mas consulte o usuário antes de decisões críticas.",
+      "prioridade": "Ganhar dinheiro no menor tempo possível com o menor investimento possível. Gastar dinheiro apenas para gerar mais dinheiro.",
+      "quando_ativar": [
+        "Escolha entre pacotes mensais ou serviços avulsos",
+        "Limites legais de atuação em determinados serviços",
+        "Definição de linguagem para evitar infrações à OAB"
+      ],
+      "orientacao_estrategica": "Considere as 80 leis e qual se aplica, e siga o caminho delas, apresentando ao usuário os possíveis caminhos e porque tomou tal decisão.",
+      "diretriz_final": "Não tomar decisões sozinho quando houver risco estratégico. Apresente as opções e consulte o usuário."
+    }
+  }
+}

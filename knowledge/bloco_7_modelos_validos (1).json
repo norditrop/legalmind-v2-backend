@@ -1,0 +1,89 @@
+{
+  "segmento_7": {
+    "descricao": "Modelos de negócios jurídico-administrativos lucrativos já validados (franquias, microfranquias, redes white label e híbridos)",
+    "caracteristicas_gerais": {
+      "perfil_operador": "Estagiário, bacharel em Direito ou empreendedor com parceria jurídica estabelecida",
+      "modelo": "Serviços jurídicos/administrativos massificados, replicáveis, com alta demanda e baixo custo operacional",
+      "abrangencia": "Atuação local, regional ou digital, com base em marketing online e atendimento remoto",
+      "legitimidade": "Modelos construídos dentro dos limites éticos da OAB ou com estrutura formalizada de assessoria jurídica interna"
+    },
+    "modelos_negocio": {
+      "microfranquias_documentais": {
+        "exemplos": ["Resolva Rápido", "Cartório Fácil", "JuriMEI"],
+        "descricao": "Prestação de serviços como abertura de MEI, certidões, regularizações, parcelamentos, entre outros",
+        "legalidade": "Atuação extrajudicial e administrativa. Advogados atuam apenas como supervisores ou não são necessários",
+        "investimento": "R$ 2.000 a R$ 10.000",
+        "rentabilidade": "R$ 3.000 a R$ 12.000/mês"
+      },
+      "franquias_parajuridicas": {
+        "exemplos": ["RevisaTudo", "JusSimples", "Reclama Express", "Cartão Legal"],
+        "descricao": "Negócios voltados a revisão de contratos, defesa contra abusos bancários, negociação de dívidas, recuperação tributária simples e recursos administrativos",
+        "destaques": "Algumas franquias oferecem operação sem OAB, focadas em negociação e formalização de pedidos administrativos, com suporte jurídico interno",
+        "modelo": "White label ou com marca própria, com treinamento, funis prontos e marketing incluso"
+      },
+      "licenciamento_white_label": {
+        "descricao": "Você opera um negócio com sua própria marca, utilizando a estrutura jurídica, tecnológica e operacional de uma empresa já validada",
+        "beneficios": "Baixo custo, mais liberdade, possibilidade de escalar com sua identidade visual",
+        "exemplos": [
+          {
+            "nome": "Legaliza Aqui",
+            "segmento": "Regularização de imóveis, dívidas, CPF, MEI e financiamentos",
+            "modelo": "White label com marca própria + portal do operador + suporte jurídico interno"
+          },
+          {
+            "nome": "Consultor de Crédito Legal",
+            "segmento": "Negociação de dívidas bancárias, revisão de contratos, clean score",
+            "modelo": "White label com funis de venda prontos e plataforma integrada"
+          }
+        ],
+        "ganhos_estimados": "R$ 500 a R$ 2.000 por cliente, com operação 100% digital"
+      },
+      "modelos_hibridos": {
+        "descricao": "Negócios que misturam jurídico, administrativo e marketing digital, criando estruturas onde estagiários operam com base em scripts, automações e apoio remoto de advogados parceiros",
+        "exemplos": [
+          {
+            "nome": "JuriExpress Local",
+            "formato": "Funil automatizado + atendimento humano via WhatsApp + despacho do caso para advogado parceiro",
+            "diferencial": "Você apenas capta, qualifica e gerencia. A execução é terceirizada, mas sob sua marca"
+          },
+          {
+            "nome": "DeskLegal",
+            "modelo": "Central local de atendimento jurídico-digital, com pacotes administrativos, consultoria, intermediação de serviços e atendimento remoto sob demanda"
+          }
+        ],
+        "estrutura": "WhatsApp Business, CRM, landing pages e advogado remoto via contrato de parceria",
+        "ganhos": "R$ 5.000 a R$ 15.000/mês com operação enxuta"
+      }
+    },
+    "plataformas_divulgacao": {
+      "anuncios_locais": "Meta Ads (Facebook/Instagram) com público segmentado por cidade e problema (ex.: 'dívidas', 'aposentadoria', 'multas')",
+      "conteudo_educativo": "YouTube Shorts, Reels e TikTok com conteúdo simplificado, gerando autoridade e captando leads",
+      "estrategia_boca_a_boca": "Parcerias com contadores, pastores, lojistas e mecânicos locais como pontos de indicação",
+      "whatsapp_forte": "Número comercial com mensagens automatizadas, link direto nos anúncios e CRM vinculado"
+    },
+    "indicadores_validade_negocio": {
+      "prova_social": "Avaliar franquias/marcas com reviews reais, números de franqueados ativos e conteúdo publicamente acessível",
+      "escalabilidade": "Modelos com estrutura digital e suporte remoto escalam mais fácil",
+      "risco_legal": "Priorizar modelos administrativos com clareza sobre limites da atuação (ex: sem peticionamento ou orientação jurídica direta)",
+      "acompanhamento": "Empresas que oferecem suporte, treinamentos contínuos e acesso a materiais atualizados são mais confiáveis"
+    },
+    "alertas_eticos": {
+      "uso_de_advogados": "Quando houver envolvimento jurídico, operar sempre por contrato com advogado parceiro, definindo papel de cada um",
+      "linguagem_em_anuncios": "Evitar expressões como 'ganhe sua causa', 'resolvemos seu processo' ou 'nosso time de advogados' quando não houver atuação direta",
+      "marca_propria_x_franquia": "Ter marca própria oferece mais liberdade, mas requer mais conhecimento em marketing; franquias limitam mais, porém guiam todo o processo"
+    },
+    "legalmind_consultivo": {
+      "modo_operacao": "interpretativo",
+      "consulta_usuario": true,
+      "instrucao_base": "Sempre que houver mais de uma possibilidade estratégica, apresente ao usuário as opções mais vantajosas com clareza e justificativa. Priorize retorno rápido e alto lucro com baixo investimento, mas consulte o usuário antes de decisões críticas.",
+      "prioridade": "Ganhar dinheiro no menor tempo possível com o menor investimento possível. Gastar dinheiro apenas para gerar mais dinheiro.",
+      "quando_ativar": [
+        "Escolha entre franquia, white label ou modelo híbrido",
+        "Conflito entre escalar com marca própria ou aderir a modelo pronto",
+        "Avaliação de risco legal conforme modelo e operador"
+      ],
+      "orientacao_estrategica": "Considere as 80 leis e qual se aplica, e siga o caminho delas, apresentando ao usuário os possíveis caminhos e porque tomou tal decisão.",
+      "diretriz_final": "Não tomar decisões sozinho quando houver risco estratégico. Apresente as opções e consulte o usuário."
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "segmento_5": {
+    "descricao": "Organizações sem fins lucrativos e ONGs buscando ampliar impacto e eficiência através de estratégias digitais",
+    "desafios_comuns": [
+      "Limitações orçamentárias para marketing e tecnologia",
+      "Engajamento e retenção de voluntários e doadores",
+      "Aumento da visibilidade e conscientização sobre a causa",
+      "Gestão eficiente de projetos e recursos"
+    ],
+    "solucoes_propostas": {
+      "marketing_digital": {
+        "descricao": "Utilização de mídias sociais, e-mail marketing e campanhas online para alcançar e engajar públicos-alvo.",
+        "beneficios": [
+          "Maior alcance com baixo custo",
+          "Fortalecimento da comunidade em torno da causa",
+          "Aumento de doações e participação em eventos"
+        ]
+      },
+      "plataformas_crowdfunding": {
+        "descricao": "Implementação de campanhas de financiamento coletivo para arrecadar fundos específicos.",
+        "beneficios": [
+          "Diversificação das fontes de receita",
+          "Engajamento direto com apoiadores",
+          "Transparência no uso dos recursos"
+        ]
+      },
+      "ferramentas_gestao_projetos": {
+        "descricao": "Adoção de softwares para planejamento, execução e monitoramento de projetos.",
+        "beneficios": [
+          "Melhor alocação de recursos",
+          "Acompanhamento em tempo real do progresso",
+          "Maior eficiência na entrega de resultados"
+        ]
+      },
+      "plataformas_voluntariado": {
+        "descricao": "Uso de sistemas para recrutamento, treinamento e gestão de voluntários.",
+        "beneficios": [
+          "Facilidade na comunicação com voluntários",
+          "Melhor organização das atividades",
+          "Aumento na satisfação e retenção dos voluntários"
+        ]
+      }
+    },
+    "ferramentas_recomendadas": {
+      "gestao_relacionamento": [
+        {
+          "nome": "Salesforce Nonprofit Cloud",
+          "descricao": "Solução CRM adaptada para organizações sem fins lucrativos."
+        },
+        {
+          "nome": "Bloomerang",
+          "descricao": "Plataforma focada na gestão de doadores e retenção."
+        }
+      ],
+      "plataformas_crowdfunding": [
+        {
+          "nome": "Kickstarter",
+          "descricao": "Plataforma global de financiamento coletivo para projetos criativos."
+        },
+        {
+          "nome": "GoFundMe",
+          "descricao": "Site de arrecadação de fundos para causas pessoais e sociais."
+        }
+      ],
+      "ferramentas_gestao_projetos": [
+        {
+          "nome": "Asana",
+          "descricao": "Software de gestão de projetos com recursos de colaboração em equipe."
+        },
+        {
+          "nome": "Trello",
+          "descricao": "Ferramenta visual para organização de tarefas e projetos."
+        }
+      ],
+      "gestao_voluntariado": [
+        {
+          "nome": "VolunteerLocal",
+          "descricao": "Sistema para recrutamento, comunicação e gestão de voluntários."
+        },
+        {
+          "nome": "Golden Volunteer App",
+          "descricao": "Plataforma gamificada para engajar voluntários e medir impacto."
+        }
+      ]
+    },
+    "metricas_sucesso": [
+      "Aumento no número de doadores recorrentes",
+      "Crescimento do engajamento nas redes sociais",
+      "Redução de custos operacionais com adoção de tecnologia",
+      "Melhoria na taxa de retenção de voluntários",
+      "Cumprimento de metas e entregas de projetos com maior eficiência"
+    ],
+    "legalmind_consultivo": {
+      "modo_operacao": "interpretativo",
+      "consulta_usuario": true,
+      "instrucao_base": "Sempre que houver mais de uma possibilidade estratégica, apresente ao usuário as opções mais vantajosas com clareza e justificativa. Priorize retorno rápido e alto lucro com baixo investimento, mas consulte o usuário antes de decisões críticas.",
+      "prioridade": "Ganhar dinheiro no menor tempo possível com o menor investimento possível. Gastar dinheiro apenas para gerar mais dinheiro.",
+      "quando_ativar": [
+        "Escolha entre visibilidade orgânica e campanhas pagas",
+        "Decisão sobre plataforma de doações vs sistema próprio",
+        "Conflito entre captar voluntários ou otimizar os existentes"
+      ],
+      "orientacao_estrategica": "Considere as 80 leis e qual se aplica, e siga o caminho delas, apresentando ao usuário os possíveis caminhos e porque tomou tal decisão.",
+      "diretriz_final": "Não tomar decisões sozinho quando houver risco estratégico. Apresente as opções e consulte o usuário."
+    }
+  }
+}

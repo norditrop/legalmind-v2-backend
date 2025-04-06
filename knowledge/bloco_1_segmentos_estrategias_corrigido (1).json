@@ -1,0 +1,65 @@
+{
+  "segmento_1": {
+    "descricao": "Advogados, escritórios e serviços jurídicos atuando online com funis locais simplificados",
+    "tipos_anuncios": {
+      "formatos_eficazes": ["vídeo (stories/reels)", "imagem estática", "carrossel de imagens", "anúncio de texto (Google Search)"],
+      "destaques": "Vídeos verticais geram alto engajamento; imagens com mensagem clara também performam bem. Linguagem simples, focada em benefícios para o cliente.",
+      "copy_e_cta": "Texto persuasivo voltado à solução do problema legal, evitando jargões. CTA explícito convidando à ação ('Agende agora', 'Envie mensagem') com senso de urgência."
+    },
+    "plataformas_segmentacao": {
+      "meta_ads": "Facebook/Instagram Ads com segmentação por local (cidade/região), dados demográficos e interesses jurídicos. Uso de anúncios 'clique para WhatsApp' para contato direto.",
+      "google_ads": "Campanhas de pesquisa Google focadas em palavras-chave de serviços legais + local. Alcance clientes com intenção ativa de buscar advogados.",
+      "tiktok_ads": "Emergente; vídeos curtos patrocinados para público local. Permite alcance econômico, mas requer adequação ao tom informal da plataforma.",
+      "observacoes": "Segmentação geográfica local é priorizada para obter clientes na área de atuação. Remarketing utilizado (ex.: reimpactar quem visitou o site do escritório)."
+    },
+    "funil_conversao": {
+      "modelo_whatsapp": [
+        "Anúncio (Facebook/Instagram ou Google) com CTA de mensagem",
+        "Conversa imediata no WhatsApp Business (resposta em 5-15 min)",
+        "Qualificação rápida do lead via chat",
+        "Agendamento de consulta ou reunião",
+        "Follow-up por WhatsApp se lead ficar inativo (2-3 tentativas)"
+      ],
+      "modelo_landing_page": [
+        "Anúncio leva a landing page do serviço",
+        "Oferta de valor (consulta gratuita ou e-book) em troca de contato",
+        "Formulário automatizado coleta dados do lead",
+        "Lead recebe página de obrigado + instruções (ex.: WhatsApp, agendar)",
+        "Equipe entra em contato (WhatsApp/telefone) para converter em consulta"
+      ],
+      "automacoes": "Mensagens automáticas de saudação no WhatsApp; integrações via Zapier (formulário -> CRM/alerta equipe); e-mails de nutrição para leads não convertidos (conteúdo relevante periódico)."
+    },
+    "gatilhos_psicologicos": {
+      "autoridade": "Enfatizar especialização do advogado, anos de experiência e conteúdos educativos para construir autoridade.",
+      "prova_social": "Depoimentos/clientes satisfeitos (quando permitido) e métricas como número de casos ou presença na mídia para gerar confiança.",
+      "reciprocidade": "Oferecer algo gratuito (consulta inicial, material informativo) para induzir retribuição com a contratação.",
+      "escassez_urgencia": "Destacar vagas limitadas na agenda ou prazos legais para o cliente agir. Ex.: 'Últimos 2 horários desta semana' ou 'Prazo do seu direito expira em 30 dias'.",
+      "empatia": "Demonstrar preocupação genuína com a situação do lead, ouvir ativamente e assegurar que entende a dor dele, criando conexão emocional."
+    },
+    "ferramentas_crm_automacao": {
+      "crm": ["AdvBox (CRM jurídico)", "Planilhas/Excel (inicialmente)", "Pipedrive ou Agendor (pipeline de vendas)"],
+      "whatsapp_business": "App com etiquetas para organizar leads (Novo, Em negociação, Fechado). Respostas rápidas configuradas para dúvidas comuns. Listas de transmissão para envio de novidades a leads.",
+      "integracoes": ["Google Analytics + Tag Manager (monitorar conversões)", "Zapier (conectar formulários, CRM, e-mail)", "RD Station (landing pages e e-mail marketing)"],
+      "automacoes": "Envio automático de e-mail/SMS de confirmação após contato do lead. Sequência de follow-up agendada (ex.: mensagem 1 dia e 3 dias após consulta oferecida)."
+    },
+    "scripts_fechamento": {
+      "abordagem_inicial": "Saudação personalizada, agradecimento e breve apresentação da especialidade, seguida de pergunta sobre a necessidade do lead.",
+      "resposta_duvidas": "Objetividade com linguagem simples. Ex.: Ao perguntarem preço, informar valor + justificar benefícios + ofertar agendamento imediato.",
+      "contorno_objecoes": "Listar objeções comuns (preço, tempo de processo, etc.) e ter respostas prontas: parcelamento, valor do resultado vs custo, precedentes de sucesso.",
+      "fechamento": "Pedir claramente a contratação/agendamento: ex.: 'Podemos então confirmar sua consulta para tal dia?'. Encaminhar contrato ou pagamento rapidamente após o sim.",
+"follow_up": "Se não fechar de imediato, combinar retorno ('Posso ligar em 2 dias?'). Reforçar urgência real no follow-up: lembrar prazo ou consequências de não agir."
+  },
+  "legalmind_consultivo": {
+    "modo_operacao": "interpretativo",
+    "consulta_usuario": true,
+    "instrucao_base": "Sempre que houver mais de uma possibilidade estratégica, apresente ao usuário as opções mais vantajosas com clareza e justificativa. Priorize retorno rápido e alto lucro com baixo investimento, mas consulte o usuário antes de decisões críticas.",
+    "prioridade": "Ganhar dinheiro no menor tempo possível com o menor investimento possível. Gastar dinheiro apenas para gerar mais dinheiro.",
+    "quando_ativar": [
+      "Conflito entre lucro rápido e estruturação de longo prazo",
+      "Dúvida entre estratégias locais e nacionais",
+      "Escolha entre formatos de funil e automações",
+      "Definição de copy e criativos que afetam conversão"
+    ],
+    "orientacao_estrategica": "Considere as 80 leis e qual se aplica, e siga o caminho delas, apresentando ao usuário os possíveis caminhos e porque tomou tal decisão.",
+    "diretriz_final": "Não tomar decisões sozinho quando houver risco estratégico. Apresente as opções e consulte o usuário."
+  }

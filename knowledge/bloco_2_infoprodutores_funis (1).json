@@ -1,0 +1,83 @@
+{
+  "segmento_2": {
+    "descricao": "Infoprodutores, agências, coaches e outros empreendedores digitais com estratégias adaptáveis ao setor jurídico/administrativo",
+    "tipos_anuncios": {
+      "formatos_eficazes": [
+        "vídeo ads (YouTube, Facebook)",
+        "anúncios em stories/reels",
+        "carrosséis informativos no Instagram/Facebook",
+        "anúncios de pesquisa (Google) para intenção ativa"
+      ],
+      "criativos": "Uso intenso de storytelling e depoimentos em vídeo. Imagens de impacto com textos curtos (perguntas, estatísticas) para gerar curiosidade. Diversos formatos testados e otimizados conforme desempenho.",
+      "testes": "Prática de testar múltiplos criativos (A/B) simultaneamente e iterar até encontrar os 'vencedores'. Monitoramento de métricas (CTR, CPL, conversão) guia ajustes."
+    },
+    "plataformas_alcance": {
+      "facebook_instagram": "Principal canal para escala, com segmentação comportamental detalhada. Permite campanhas de engajamento, vídeo view (para nutrir) e conversão (captura de leads).",
+      "youtube": "Ads em vídeo (in-stream) alavancando conteúdo educativo ou convites para webinars. Canal orgânico forte para construir autoridade via vídeos longos.",
+      "linkedin": "Segmentação profissional (cargo, setor). Eficaz para B2B e ofertas corporativas (ex.: consultorias empresariais). Leads mais caros, porém qualificados.",
+      "tiktok": "Alcance viral e público jovem. Conteúdo leve e dinâmico impulsionado por tendências. Bom para branding e topo de funil; conversões dependem de retargeting e follow-up em outros canais."
+    },
+    "modelos_funil": {
+      "funil_lead_magnet": "Anúncio atrai para landing page com oferta gratuita (e-book, checklist, mini-curso). Coleta e-mail/contato. Sequência de e-mails de nutrição educa o lead. Por fim, apresenta oferta principal (curso, consultoria).",
+      "funil_webinar": "Anúncio convida para webinar online (ao vivo ou gravado). Lead se registra. Recebe e-mails de lembrete. No webinar, conteúdo de valor seguido de pitch de venda. Alta conversão em curto período (escassez temporal).",
+      "funil_consulta": "Anúncio leva à página de agendamento de consulta diagnóstica gratuita. Lead agenda em calendário online. Realiza-se a call de venda consultiva e oferece produto/serviço premium. Comum em coaching e serviços de alto ticket.",
+      "funil_lancamento": "Série de conteúdos gratuitos (ex.: 3 vídeos ou lives) liberados ao longo de uma semana para inscritos. Ao final, carrinho aberto por poucos dias para comprar (curso ou mentoria). Gatilhos de urgência e comunidade (vários participantes simultâneos)."
+    },
+    "gatilhos_copywriting": {
+      "beneficios_transformacao": "Copy sempre ressalta a transformação que o cliente terá (estado desejado) em vez de detalhes técnicos do produto. Ex.: 'Tenha sua aposentadoria aprovada sem dor de cabeça' ao invés de 'Consultoria em processos previdenciários'.",
+      "storytelling": "Uso de histórias reais ou fictícias para engajar emocionalmente. Apresentar problema, agravá-lo, e mostrar solução (produto/serviço) como virada heróica. Conecta o leitor pela emoção e identificação.",
+      "prova_social": "Depoimentos de clientes, estudos de caso, números de alunos/usuários, selos de confiança. Incluídos em páginas de vendas e e-mails para remover insegurança ('se tantos já conseguiram, eu também consigo').",
+      "escassez_urgencia": "Elementos como contagem regressiva, 'últimas vagas', 'bônus por tempo limitado' usados amplamente para estimular a ação imediata. Adaptado eticamente no jurídico (ex.: prazo legal ou agenda limitada) para não ferir o código de ética.",
+      "linguagem_clara": "Textos sem jargões, escrita como se fala. Tópicos e bullet points para facilitar leitura. Perguntas diretas ao leitor para envolvê-lo ('Você gostaria de...?')."
+    },
+    "ferramentas_crm_automacao": {
+      "email_marketing": [
+        "MailChimp",
+        "ActiveCampaign",
+        "RD Station (br) - fluxos de nutrição e scoring"
+      ],
+      "crm_vendas": [
+        "HubSpot CRM",
+        "Pipedrive - funil de oportunidade",
+        "Salesforce (empresas maiores)"
+      ],
+      "chatbots": [
+        "ManyChat (Facebook/Instagram)",
+        "Dialogflow ou IBM Watson (chatbot IA)",
+        "WhatsApp API + bots (Take Blip, Zenvia)"
+      ],
+      "analytics": [
+        "Google Analytics/GA4 (tráfego e conversão)",
+        "Facebook Ads Manager (métricas de campanha)",
+        "Hotjar (mapa de calor, gravação de tela)"
+      ],
+      "gerenciamento": [
+        "Zapier (integração de apps)",
+        "Trello/Asana (gestão de leads/tarefas)",
+        "Slack (comunicação com equipe)",
+        "Google Data Studio (dashboards ROI)"
+      ]
+    },
+    "estrategias_fechamento": {
+      "script_consultivo": "Conduzir conversa de venda fazendo perguntas para o cliente expor dores e desejos; repetir e validar esses pontos; só então apresentar a solução alinhada exatamente ao que ele busca. Cliente se sente compreendido e inclinado a fechar.",
+      "ancoragem_valor": "Antes de falar preço, destacar o valor e resultados do serviço. Por ex.: quantificar perdas se não contratar ou comparar com alternativas mais caras, fazendo o investimento parecer vantajoso e pequeno frente ao benefício.",
+      "CTA_claro_e_encaminhamento": "No fim da reunião/chamada, pedir explicitamente a decisão: ex.: 'Vamos iniciar, então?'. Se sim, imediatamente passar próximos passos (enviar contrato, link de pagamento, coleta de documentos) para concretizar o acordo sem demora.",
+      "followup_pos_proposta": "Caso o prospect queira 'pensar', agendar já um follow-up ('Retorno com você em 3 dias'). Nesse follow-up, reforçar pontos de valor e alguma urgência (real, não fabricada). Manter acompanhamento até um 'sim' ou 'não' definidos.",
+      "postura_persuasiva": "Manter tom profissional e empático, sem hard sell agressivo. Contudo, não ter medo de conduzir o cliente à decisão. Técnicas como obter pequenos 'sims' durante a conversa, tratar objeções antes que sejam levantadas, e demonstrar segurança ('Este é o caminho recomendado')."
+}
+     },
+"legalmind_consultivo": {
+  "modo_operacao": "interpretativo",
+  "consulta_usuario": true,
+  "instrucao_base": "Sempre que houver mais de uma possibilidade estratégica, apresente ao usuário as opções mais vantajosas com clareza e justificativa. Priorize retorno rápido e alto lucro com baixo investimento, mas consulte o usuário antes de decisões críticas.",
+  "prioridade": "Ganhar dinheiro no menor tempo possível com o menor investimento possível. Gastar dinheiro apenas para gerar mais dinheiro.",
+  "quando_ativar": [
+    "Conflito entre lucro rápido e estruturação de longo prazo",
+    "Dúvida entre estratégias locais e nacionais",
+    "Escolha entre formatos de funil e automações",
+    "Definição de copy e criativos que afetam conversão"
+  ],
+  "orientacao_estrategica": "Considere as 80 leis e qual se aplica, e siga o caminho delas, apresentando ao usuário os possíveis caminhos e porque tomou tal decisão.",
+  "diretriz_final": "Não tomar decisões sozinho quando houver risco estratégico. Apresente as opções e consulte o usuário."
+  }
+}

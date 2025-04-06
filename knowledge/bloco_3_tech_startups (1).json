@@ -1,0 +1,73 @@
+{
+  "segmento_3": {
+    "descricao": "Empresas de tecnologia e startups oferecendo soluções inovadoras para o setor jurídico/administrativo",
+    "tipos_anuncios": {
+      "formatos_eficazes": [
+        "demonstrações de produtos em vídeo",
+        "webinars educativos",
+        "anúncios em carrossel destacando funcionalidades",
+        "posts patrocinados com estudos de caso"
+      ],
+      "destaques": "Demonstrações práticas e estudos de caso reais aumentam a credibilidade. Conteúdo educativo que resolve dores específicas do setor atrai atenção qualificada.",
+      "copy_e_cta": "Mensagens que enfatizam eficiência, economia de tempo e custo. CTAs como 'Agende uma demonstração' ou 'Experimente gratuitamente' incentivam a experimentação."
+    },
+    "plataformas_segmentacao": {
+      "linkedin_ads": "Segmentação por cargo, setor e tamanho da empresa. Ideal para alcançar tomadores de decisão em empresas jurídicas/administrativas.",
+      "google_ads": "Campanhas de pesquisa focadas em palavras-chave relacionadas a soluções tecnológicas para o setor. Alcance usuários com intenção ativa de busca.",
+      "facebook_instagram": "Anúncios direcionados a interesses específicos, como tecnologia jurídica, automação de processos, etc. Permite alcance mais amplo e construção de marca."
+    },
+    "funil_conversao": {
+      "modelo_trial": [
+        "Anúncio leva a página de inscrição para teste gratuito",
+        "Usuário se cadastra e recebe acesso imediato",
+        "Sequência de e-mails com dicas de uso e benefícios",
+        "Equipe de vendas entra em contato durante ou após o trial para conversão"
+      ],
+      "modelo_demo": [
+        "Anúncio convida para agendar demonstração personalizada",
+        "Lead agenda horário conveniente",
+        "Demonstração ao vivo focada nas necessidades do lead",
+        "Follow-up pós-demo com oferta especial ou período de trial"
+      ]
+    },
+    "gatilhos_psicologicos": {
+      "prova_social": "Depoimentos de clientes renomados no setor aumentam a confiança.",
+      "autoridade": "Certificações, prêmios e parcerias estratégicas reforçam a credibilidade.",
+      "escassez": "Ofertas por tempo limitado ou vagas restritas para trials incentivam ação rápida."
+    },
+    "ferramentas_crm_automacao": {
+      "crm": [
+        "Salesforce",
+        "HubSpot",
+        "Zoho CRM"
+      ],
+      "email_marketing": [
+        "MailChimp",
+        "Constant Contact"
+      ],
+      "analytics": [
+        "Google Analytics",
+        "Mixpanel"
+      ],
+      "chatbots": [
+        "Intercom",
+        "Drift"
+      ]
+    },
+    "estrategias_fechamento": {
+      "abordagem_consultiva": "Entender profundamente as dores do cliente e demonstrar como a solução resolve esses pontos específicos.",
+      "propostas_personalizadas": "Elaborar propostas que atendam às necessidades e orçamento do cliente.",
+      "follow_up_estruturado": "Sequência de follow-ups para manter o lead engajado e responder a objeções."
+    },
+    "legalmind_consultivo": {
+      "permitir_decisao_usuario": true,
+      "possiveis_conflitos": [
+        "Alta escalabilidade x Baixo custo inicial",
+        "Maior ticket médio x Menor tempo de conversão"
+      ],
+      "principios_acionados": ["Lei 3", "Lei 14", "Lei 45"],
+      "acao_recomendada": "Apresentar ao usuário 2 ou mais caminhos estratégicos e sugerir o de melhor retorno, mas aguardar decisão.",
+      "frase_consulta": "Deseja seguir com a estratégia mais rápida e de menor risco (Lei 3), ou investir mais tempo por um possível ticket maior (Lei 45)?"
+    }
+  }
+}
